@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/tenorio-kjl/Projeto-Integrador-Full-Stack/issues"
   },
-  "homepage": "https://github.com/tenorio-kjl/Projeto-Integrador-Full-Stack#readme"
+  "homepage": "https://github.com/tenorio-kjl/Projeto-Integrador-Full-Stack#readme",
+  "keywords": [],
+  "dependencies": {
+    "express": "^5.1.0",
+    "sqlite3": "^5.1.7"
+  }
 }
