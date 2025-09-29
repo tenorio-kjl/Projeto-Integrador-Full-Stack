@@ -1,0 +1,19 @@
+{
+  "name": "projeto-integrador-full-stack",
+  "version": "1.0.0",
+  "description": "FACULDADE GRAN (https://faculdade.grancursosonline.com.br/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tenorio-kjl/Projeto-Integrador-Full-Stack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tenorio-kjl/Projeto-Integrador-Full-Stack/issues"
+  },
+  "homepage": "https://github.com/tenorio-kjl/Projeto-Integrador-Full-Stack#readme"
+}
