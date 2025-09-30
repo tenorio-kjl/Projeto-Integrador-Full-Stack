@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/tenorio-kjl/Projeto-Integrador-Full-Stack#readme",
   "dependencies": {
+    "body-parser": "^2.2.0",
     "express": "^5.1.0"
   }
 }
